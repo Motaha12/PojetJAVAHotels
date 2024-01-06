@@ -1,0 +1,1 @@
+SELECT * FROM taha1.employees;
